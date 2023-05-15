@@ -1,0 +1,36 @@
+body {
+	font-family: sans-serif;
+	margin: 0;
+}
+
+h1 {
+	margin: 0 0 40px;
+}
+
+p {
+	margin: 0 0 40px;
+}
+
+.conteiner {
+	max-width: 800px;
+	min-height: 300px;
+	margin: 0 auto;
+	border-right: 2px groove;
+	border-left: 2px groove;
+}
+
+.knopka {
+	background: black;
+	border-radius: 2px;
+	color: white;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+.photo {
+	height: 240px;
+	width: 240px;
+	border-radius: 150px;
+	float: right;
+} 
+
